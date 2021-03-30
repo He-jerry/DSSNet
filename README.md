@@ -26,9 +26,7 @@ Dataset Modified:
 
 Line 25,26,27
 
-imgpath='/public/zebanghe2/derain/reimplement/residualse/train/mix'
-
-transpath='/public/zebanghe2/derain/reimplement/residualse/train/transmission'
+imgpath='/public/zebanghe2/derain/reimplement/residualse/train/mix‘
 
 maskpath='/public/zebanghe2/derain/reimplement/residualse/train/sodmask'
 
